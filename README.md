@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Full Stack Web**
 
 - 📫 How to reach me **dinhngocliennhi1999@gmail.com**
+- 💬 ask me about anything, i am happy to help
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
